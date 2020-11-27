@@ -1,5 +1,8 @@
-# Welcome to my blog
+minima
 
 I'm glad you are here. I plan to talk about ...
 
-Music in general
+#theme
+theme: minima
+
+
